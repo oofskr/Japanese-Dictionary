@@ -57,19 +57,27 @@
 ```bash
 git clone https://github.com/oofskr/Japanese-Dictionary.git
 cd Japanese-Dictionary/japanese-learner
-2. 安裝相依套件
+```
+### 2. 安裝相依套件
+```bash
 npm install
-3. 設定 Gemini API Key
+```
+### 3. 設定 Gemini API Key
+```bash
 前往 Google AI Studio 免費申請一組 API Key。
 在 japanese-learner 資料夾下建立 .env 檔案（或複製 .env.example）：
 VITE_GEMINI_API_KEY=你的_Gemini_API_Key
 VITE_GEMINI_MODEL=gemini-flash-latest
 ⚠️ 安全提醒：請務必將 .env 保留在本機，切勿 Commit 或上傳至公開儲存庫。專案已在 .gitignore 中預設排除。
-4. 啟動開發伺服器
+```
+### 4. 啟動開發伺服器
+```bash
 npm run dev
 啟動後在瀏覽器開啟 http://localhost:5173。
 💡 Windows 使用者：亦可直接雙擊專案目錄下的 start.bat，系統會自動檢查環境、啟動並在預設瀏覽器中開啟網站。
-📁 專案目錄結構
+```
+## 📁 專案目錄結構
+```bash
 japanese-learner/
 ├── public/                 # 靜態資源圖標
 ├── src/
@@ -95,5 +103,6 @@ japanese-learner/
 ├── package.json
 ├── start.bat               # Windows 一鍵啟動腳本
 └── README.md
-📄 授權條款
+```
+## 📄 授權條款
 本專案採用 MIT License 授權。
