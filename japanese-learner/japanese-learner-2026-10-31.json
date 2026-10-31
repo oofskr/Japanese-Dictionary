@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "grammar-tryn2-1-1",
+    "type": "grammar",
+    "category": "TryN2 - 1",
+    "front": "1. ～につき",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-1-1-1",
+        "japanese": "この先工事中につき、通行不可。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-1-2",
+        "japanese": "本日雨天につき、運動会は来週に延期します。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-1-3",
+        "japanese": "こちらは限定品につき、なくなり次第、販売終了となります。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-1-4",
+        "japanese": "返却期限を過ぎた場合、延滞料金として一日につき300円お支払いいただきます。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-1-2",
+    "type": "grammar",
+    "category": "TryN2 - 1",
+    "front": "2. ～を問わず",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-1-2-1",
+        "japanese": "この試験は国籍を問わず誰でも受験することができます。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-2-2",
+        "japanese": "朝霞ダンス愛好会では年齢、性別を問わず新規メンバーを募集しています。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-2-3",
+        "japanese": "志村けんは老若男女を問わず、誰からも愛されたコメディタレントだった。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-2-4",
+        "japanese": "我が社は初心者大歓迎です。実務経験の有無は問いません。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-1-3",
+    "type": "grammar",
+    "category": "TryN2 - 1",
+    "front": "3. ～に限り",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-1-3-1",
+        "japanese": "先着10名様に限り、すてきなプレゼントを差し上げます。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-3-2",
+        "japanese": "今回のテストに限り、辞書の使用を許可する。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-3-3",
+        "japanese": "当店では雨の日に限り、お買い上げポイントが二倍になります。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-3-4",
+        "japanese": "この薬は医者が服用を許可した場合に限り、処方される。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-1-4",
+    "type": "grammar",
+    "category": "TryN2 - 1",
+    "front": "4. ～に応じて",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-1-4-1",
+        "japanese": "成果主義では仕事の成果に応じて、人事や報酬額が決定される。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-4-2",
+        "japanese": "一方、勤続年数に応じて、昇進や昇給する制度を年功序列という。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-4-3",
+        "japanese": "宴会料理はご予算に応じて、三つのコースからお選びいただけます。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-4-4",
+        "japanese": "子供たち一人ひとりの個性に応じた教育が求められている。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-1-5",
+    "type": "grammar",
+    "category": "TryN2 - 1",
+    "front": "5. ～にかかわりなく・～にかかわらず",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-1-5-1",
+        "japanese": "この会には年齢や性別にかかわりなく、誰でも入会することができます。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-5-2",
+        "japanese": "ドーム球場ができて天候にかかわりなく試合が楽しめるようになった。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-5-3",
+        "japanese": "出席するかしないかにかかわらず、返事は早めに出したほうがいい。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-5-4",
+        "japanese": "参加人数の多少にかかわらず、日本語勉強会を開きたいと思います。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-1-6",
+    "type": "grammar",
+    "category": "TryN2 - 1",
+    "front": "6. ～において・～における",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-1-6-1",
+        "japanese": "会議は第二ビル8階会議室において開かれる予定です。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-6-2",
+        "japanese": "日本の歴史において江戸時代は徳川将軍家が日本を統治していた。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-6-3",
+        "japanese": "ドアには緊急時における避難経路の地図が貼ってある。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-6-4",
+        "japanese": "アポロ11号は当時における最先端の技術を集めて造られたものでした。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-1-7",
+    "type": "grammar",
+    "category": "TryN2 - 1",
+    "front": "7. ～際に・～際は",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-1-7-1",
+        "japanese": "火事の際はエレベーターを使わないで、階段を使って避難してください。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-7-2",
+        "japanese": "出張の際に旧友の三浦君のうちを訪ねるつもりだ。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-7-3",
+        "japanese": "降りる際は足元にご注意ください。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-7-4",
+        "japanese": "これは台湾を旅行した際に撮った写真です。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-1-8",
+    "type": "grammar",
+    "category": "TryN2 - 1",
+    "front": "8. ～に際して",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-1-8-1",
+        "japanese": "事務処理のための新しいシステムの導入に際して、社内で研修会が開かれた。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-8-2",
+        "japanese": "土木工事を始めるに際し、工事の安全を祈願して地鎮祭という儀式が行われる。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-8-3",
+        "japanese": "緊急事態に際しては、各種行政機関の長の冷静かつ素早い対応が求められる。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-8-4",
+        "japanese": "日本での就職に際して、先輩や教授方には大変お世話になりました。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-1-9",
+    "type": "grammar",
+    "category": "TryN2 - 1",
+    "front": "9. ～こと",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-1-9-1",
+        "japanese": "図書館内では静かにすること。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-9-2",
+        "japanese": "試験では鉛筆かシャープペンシルを使うこと。ボールペン、万年筆などは不可。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-9-3",
+        "japanese": "申込書は郵送にて今月中に必着のこと。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-1-9-4",
+        "japanese": "本製品は直射日光の当たる場所、高温多湿な場所に長期間放置しないこと。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2a-1",
+    "type": "grammar",
+    "category": "TryN2 - 2A",
+    "front": "1. ～て以来",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2a-1-1",
+        "japanese": "江崎教授がノーベル賞を取って以来、教授の講義はいつも満員になっている。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-1-2",
+        "japanese": "新しい警察署長が就任して以来、街の治安はずいぶん改善されてきた。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-1-3",
+        "japanese": "中山君は彼女と別れて以来、学校もバイトも休みがちだ。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-1-4",
+        "japanese": "彼はデビュー以来、10連勝で負けなしの状態が続いている。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2a-2",
+    "type": "grammar",
+    "category": "TryN2 - 2A",
+    "front": "2. ～をはじめとして",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2a-2-1",
+        "japanese": "この店では欧米をはじめ、世界のいろいろな地域の食品や調味料を売っている。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-2-2",
+        "japanese": "二酸化炭素をはじめとする温室効果の削減が大きな課題となっている。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-2-3",
+        "japanese": "青森県はりんごをはじめとして、大蒜や長芋などの園芸作物の生産が盛んだ。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-2-4",
+        "japanese": "台北には士林夜市をはじめ、たくさんのナイトマーケットが点在している。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2a-3",
+    "type": "grammar",
+    "category": "TryN2 - 2A",
+    "front": "3. ～のもとで・～のもとに",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2a-3-1",
+        "japanese": "このような恵まれた環境のもとで研究が続けられるのは幸せなことだ。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-3-2",
+        "japanese": "独裁政権のもとで自由な政治的論議ができるはずがない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-3-3",
+        "japanese": "尾崎コーチの厳しい特訓のもと、選手たちは大会出場に向けて一生懸命練習を重ねてきました。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-3-4",
+        "japanese": "大島主任のもとに新たなプロジェクトチームが結成された。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2a-4",
+    "type": "grammar",
+    "category": "TryN2 - 2A",
+    "front": "4. ～はもとより",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2a-4-1",
+        "japanese": "新型コロナに感染すると、本人はもとより家族にも大きな負担がかかる。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-4-2",
+        "japanese": "途上国には電気はもとより水さえも確保が難しい地域がまだ多くある。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-4-3",
+        "japanese": "和牛は国内はもとより海外でも多くの人に食べられている。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-4-4",
+        "japanese": "株価の長期的な推移については、一般人はもとより専門家でも予想が難しい。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2a-5",
+    "type": "grammar",
+    "category": "TryN2 - 2A",
+    "front": "5. ～ものだ・～ものではない",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2a-5-1",
+        "japanese": "部下は上司の指示に従うものだ。言われたとおりにやれ。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-5-2",
+        "japanese": "子供はもともと騒がしいものです。自由に遊ばせてあげましょう。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-5-3",
+        "japanese": "他人の悪口なんて言うものではない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-5-4",
+        "japanese": "学生の本分は勉強だ。アルバイトばかりするものではない。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2a-6",
+    "type": "grammar",
+    "category": "TryN2 - 2A",
+    "front": "6. ～うえで",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2a-6-1",
+        "japanese": "海外旅行をするうえで気をつけることは何ですか。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-6-2",
+        "japanese": "外国語学習のうえで大切なのは恥ずかしがらないことだ。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-6-3",
+        "japanese": "「菊と刀」という本は日本人を理解するうえで役に立ちます。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-6-4",
+        "japanese": "この資料は研究のうえでたいへん重要なものだ。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2a-7",
+    "type": "grammar",
+    "category": "TryN2 - 2A",
+    "front": "7. ～ながら",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2a-7-1",
+        "japanese": "彼は知っていながら、私に教えてくれなかった。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-7-2",
+        "japanese": "小さいころは、貧しいながらも幸せな家庭で育った。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-7-3",
+        "japanese": "残念ながら、今回の商談は契約成立に至りませんでした。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2a-7-4",
+        "japanese": "会社設立に向けて私も微力ながらお手伝いします。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2b-1",
+    "type": "grammar",
+    "category": "TryN2 - 2B",
+    "front": "1. ～を…にして・～を…として",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2b-1-1",
+        "japanese": "荒川さんはファッション雑誌を参考にして漫画のキャラクターをかいているそうだ。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-1-2",
+        "japanese": "昼ご飯を食べ終えた学生たちはかばんや辞書を枕にして昼寝しています。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-1-3",
+        "japanese": "太陽を信仰の対象とする宗教は日本の神道だけでなく世界にもたくさんあります。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-1-4",
+        "japanese": "不祥事を起こした企業は今回のことを教訓として、再発防止に努めてほしい。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2b-2",
+    "type": "grammar",
+    "category": "TryN2 - 2B",
+    "front": "2. ～をきっかけにして・～をきっかけとして",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2b-2-1",
+        "japanese": "夫は娘が生まれたのをきっかけに、たばこを吸わなくなりました。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-2-2",
+        "japanese": "内藤君は同級生からのいじめをきっかけとして学校に来なくなってしまった。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-2-3",
+        "japanese": "阪神大震災をきっかけにして、建物の耐震基準が見直されることになった。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-2-4",
+        "japanese": "1929年にアメリカの株式市場の大暴落をきっかけとした世界恐慌が起こった。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2b-3",
+    "type": "grammar",
+    "category": "TryN2 - 2B",
+    "front": "3. ～を契機にして・～を契機として",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2b-3-1",
+        "japanese": "オリンピック開催決定を契機に都内の老朽化した設備の更新が進められた。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-3-2",
+        "japanese": "児童の交通死傷事故を契機として、政府はスクールバスの導入を決めた。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-3-3",
+        "japanese": "引っ越しを契機に着なくなった服や雑誌などを思い切って処分した。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-3-4",
+        "japanese": "戦国時代、ポルトガルからの鉄砲伝来を契機に戦の形は大きく変わった。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2b-4",
+    "type": "grammar",
+    "category": "TryN2 - 2B",
+    "front": "4. ～からには",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2b-4-1",
+        "japanese": "ベトナムに転勤するからには、現地の言葉が話せるようにがんばりたい。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-4-2",
+        "japanese": "仕事を引き受けたからには、必ず期日を守らなければならない",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-4-3",
+        "japanese": "不正行為を見てしまったからには、黙っているわけにはいきません。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-4-4",
+        "japanese": "一国の政治家であるからには、国のためにその身を捧げる覚悟が必要だ。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2b-5",
+    "type": "grammar",
+    "category": "TryN2 - 2B",
+    "front": "5. ～以上",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2b-5-1",
+        "japanese": "やると言った以上は、最後までやらないと信用を失ってしまう。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-5-2",
+        "japanese": "教師である以上、普段の生活も模範となるよう努めるなければならない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-5-3",
+        "japanese": "試合に出る以上、優勝を目指して頑張るつもりだ。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-5-4",
+        "japanese": "政府の許可が下りない以上、建設計画を進めることはできない。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2b-6",
+    "type": "grammar",
+    "category": "TryN2 - 2B",
+    "front": "6. ～うえは",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2b-6-1",
+        "japanese": "二度とタバコを吸わないと決めたうえは絶対に禁煙を成功させるつもりだ。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-6-2",
+        "japanese": "こうなったうえはもう後には戻れない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-6-3",
+        "japanese": "一度契約を結んだうえは責任を持って契約を履行しなければならない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-6-4",
+        "japanese": "海外へ旅行に行くうえはあらかじめいろいろ調べておく必要がある。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2b-7",
+    "type": "grammar",
+    "category": "TryN2 - 2B",
+    "front": "7. ～わけではない",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2b-7-1",
+        "japanese": "日本人がみんな納豆を食べるわけではありません。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-7-2",
+        "japanese": "ゲームに興味がなくなったわけではないが、忙しくてやる時間がないのだ。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-7-3",
+        "japanese": "イギリスかアメリカに行けば英語が上達するというわけではない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-7-4",
+        "japanese": "私は別にお金が欲しいわけではないんです。誠意を見せて欲しいんです。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2b-8",
+    "type": "grammar",
+    "category": "TryN2 - 2B",
+    "front": "8. ～ことなく",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2b-8-1",
+        "japanese": "原田さんは一睡もすることなく徹夜で企画書を書いた。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-8-2",
+        "japanese": "卒業しても、いつまでも絶えることなく友達でいよう。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-8-3",
+        "japanese": "犯人は怪しまれることなく正面玄関から侵入した。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-8-4",
+        "japanese": "大病を患うことなく元気に長生きしたいものだ。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-tryn2-2b-9",
+    "type": "grammar",
+    "category": "TryN2 - 2B",
+    "front": "9. ～にもかかわらず",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-tryn2-2b-9-1",
+        "japanese": "両親が反対したにもかかわらず、娘は若い役者志望の男性と結婚した。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-9-2",
+        "japanese": "古川先生は研究が忙しいにもかかわらず、時間を作って会ってくれました。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-9-3",
+        "japanese": "渡部氏は既婚者であるにもかかわらず、複数の女性との不倫が発覚した。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-tryn2-2b-9-4",
+        "japanese": "わざわざ有給を取って沖縄に遊びに行ったにもかかわらず、台風でホテルからほとんど出られなかった。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-mvw0rass-fl9j5m",
+    "type": "grammar",
+    "category": "TryN2 - 3",
+    "front": "1. ～として",
+    "reading": "",
+    "meaning": "1. 作為……、以……身分",
+    "examples": [
+      {
+        "id": "ex-mvw0s0eo-317n",
+        "japanese": "私は筑波大学の代表として、このシンポジウムに参加しました。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw0skv8-3j62",
+        "japanese": "タバコは薬としてアメリカ大陸からヨーロッパに伝わりました。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw0tf4u-gdpp",
+        "japanese": "こんな不祥事を起こすなんて、教育者としての自覚はないのか。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw0u61u-mmgs",
+        "japanese": "この国では、オートバイが通勤手段として広く普及しています。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-mvw16hfa-0v3vga",
+    "type": "grammar",
+    "category": "TryN2 - 3",
+    "front": "2. ～かぎり",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-mvw179vj-2ujn",
+        "japanese": "体が元気なかぎりは、この仕事を続けていきたい。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw18jwv-eej0",
+        "japanese": "藤田氏が経営権を握っているかぎり、会社の改革は進まないだろう。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw18yaz-9bdd",
+        "japanese": "人類がこの地球上に存在するかぎり、環境問題は解決しないのではないだろうか。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw1ay1m-np1b",
+        "japanese": "大雨が降らないかぎり、試合を予定どおり行います。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-mvw1dvc5-up9l5r",
+    "type": "grammar",
+    "category": "TryN2 - 3",
+    "front": "3. ～かぎりでは",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-mvw1fazs-wbbt",
+        "japanese": "私が知っているかぎりでは、彼はとてもやさしい人だと思う。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw1g8qr-z1fe",
+        "japanese": "私が調べたかぎりでは、帳簿に怪しい点は見つからなかった。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw1gxxv-950q",
+        "japanese": "話を聞いたかぎりでは、彼が噓をついているようには見えなかった。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw1u3vt-gegw",
+        "japanese": "事故現場を見たかぎりでは、トラックの方に過失があるようだ。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-mvw1xqg8-mn8158",
+    "type": "grammar",
+    "category": "TryN2 - 3",
+    "front": "4. ～ざるを得ない",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-mvw1z11c-4kzf",
+        "japanese": "試合に敗れた原因は練習不足だと言わざるを得ない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw2022t-y0hi",
+        "japanese": "家族を養うために、休日も働かざるを得ない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw21800-zqxy",
+        "japanese": "この悪天候では今日のマラソン大会は中止せざるを得ないだろう。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw22qu9-smj8",
+        "japanese": "証拠を目の前に出されて、容疑者は犯行を認めざるを得なくなった。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-mvw2attc-im122s",
+    "type": "grammar",
+    "category": "TryN2 - 3",
+    "front": "5. ～というものではない",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-mvw2bsdx-5pim",
+        "japanese": "眼鏡など毎日使う物は安ければいいというものではない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw2cdfz-0a6u",
+        "japanese": "お金があれば幸せになれるというものではない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw2dw8s-azl8",
+        "japanese": "親しい仲なら何をしてもいいというものではない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw2eg4h-tipq",
+        "japanese": "この病気は薬を飲めば治るというものではありません。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-mvw2ff3p-c3y0p1",
+    "type": "grammar",
+    "category": "TryN2 - 3",
+    "front": "6. ～はともかく",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-mvw2t74d-71kd",
+        "japanese": "今の会社は給料はともかく、同僚がみんないい人なので気に入っている。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw2ucjy-1o4b",
+        "japanese": "トラブルの原因はともかく、早く相手と和解したほうがいい。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw2uwnw-f2dq",
+        "japanese": "試合の結果はともかく、みんな最後まで頑張りました。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw2vomt-kd8g",
+        "japanese": "最後まで走りきれるかはともかくとして、東京マラソンに参加してみたい。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-mvw2xgeg-xyp91a",
+    "type": "grammar",
+    "category": "TryN2 - 3",
+    "front": "7. ～かねない",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-mvw2y8fy-neui",
+        "japanese": "こんな乱暴な運転を続けていたら、いずれ事故を起こしかねない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw2zbvd-e2qn",
+        "japanese": "両国の衝突は戦争に発展しかねない状況だ。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw328ru-9kma",
+        "japanese": "抜本的に改革しなければ万年赤字経営になりかねない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw32zh9-e4be",
+        "japanese": "彼は口が軽いから、秘密を洩らしかねない。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-mvw342wh-68qpbw",
+    "type": "grammar",
+    "category": "TryN2 - 3",
+    "front": "8. ～というより",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-mvw37pj8-xtiq",
+        "japanese": "この汚れは雑巾で擦るというより叩く感じで拭いたほうが汚れが落ちます。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw38q72-o85m",
+        "japanese": "現在の気温はマイナス10度です。屋外に出ると、寒いというより痛いです。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw39aof-kyz5",
+        "japanese": "私にとって彼の存在は恋人というより父親のような存在だった。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw39wqs-fyyf",
+        "japanese": "私は健康のためというよりストレス発散のためにジョギングをしている。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  },
+  {
+    "id": "grammar-mvw3b43i-6pffsq",
+    "type": "grammar",
+    "category": "TryN2 - 3",
+    "front": "9. ～てはいられない",
+    "reading": "",
+    "meaning": "",
+    "examples": [
+      {
+        "id": "ex-mvw3br5l-5eaa",
+        "japanese": "社会人になったら、人と話すのは苦手だなんて言ってはいられない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw3cs7q-fgh4",
+        "japanese": "エネルギー資源は海外に頼ってばかりはいられない。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw3dnns-vsbt",
+        "japanese": "娘の包丁の使い方が危なっかしくて見ていられません。",
+        "manual": "",
+        "auto": ""
+      },
+      {
+        "id": "ex-mvw3evy7-vuw7",
+        "japanese": "友人の栗原さんは課長に昇進したそうだ。私も負けてはいられない。",
+        "manual": "",
+        "auto": ""
+      }
+    ],
+    "manualTranslation": "",
+    "autoTranslation": ""
+  }
+]

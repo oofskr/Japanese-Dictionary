@@ -1,0 +1,23 @@
+# Environment variables (Never commit)
+.env
+.env.*
+!.env.example
+
+# Dependencies & Build
+node_modules/
+dist/
+dist-ssr/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS & Editors
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
